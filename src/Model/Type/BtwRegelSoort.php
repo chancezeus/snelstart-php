@@ -24,6 +24,7 @@ final class BtwRegelSoort extends Enum
     private const VERKOPENLAAG      = 'VerkopenLaag';
     private const VERKOPENHOOG      = 'VerkopenHoog';
     private const VERKOPENOVERIG    = 'VerkopenOverig';
+    private const VERKOPENVERLEGD   = 'VerkopenVerlegd';
     private const INKOPENLAAG       = 'InkopenLaag';
     private const INKOPENHOOG       = 'InkopenHoog';
     private const INKOPENOVERIG     = 'InkopenOverig';
