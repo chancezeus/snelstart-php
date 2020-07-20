@@ -13,6 +13,7 @@ use MyCLabs\Enum\Enum;
  * @method static BtwRegelSoort VERKOPENLAAG()
  * @method static BtwRegelSoort VERKOPENHOOG()
  * @method static BtwRegelSoort VERKOPENOVERIG()
+ * @method static BtwRegelSoort VERKOPENVERLEGD()
  * @method static BtwRegelSoort INKOPENLAAG()
  * @method static BtwRegelSoort INKOPENHOOG()
  * @method static BtwRegelSoort INKOPENOVERIG()
